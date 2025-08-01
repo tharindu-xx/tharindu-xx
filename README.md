@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hello there!<br><br>I'm currently diving into the world of programming through the **CS50 Introduction to Programming with Python** course to build a solid foundation.<br><br>At the same time, I'm thrilled to be learning how to develop an **AI chatbot**, guided by a senior developer who's mentoring me through the process.<br><br>I'm also getting comfortable with the **GitHub environment** and look forward to collaborating and sharing more projects soon.<br><br>💻 Stay tuned for updates — see you in my next repository!<br>
+### 👋 Hello there!<br><br>I'm currently diving into the world of programming through the **CS50 Introduction to Programming with Python** course to build a solid foundation.<br><br>I'm also getting comfortable with the **GitHub environment** and look forward to collaborating and sharing more projects soon.<br><br>💻 Stay tuned for updates — see you in my next repository!<br>
 
 
 ## 🌐 Socials:
